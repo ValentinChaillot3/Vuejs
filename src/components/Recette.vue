@@ -49,7 +49,6 @@ export default {
 <style>
 #global {
   margin-left: 30%;
-  /* background-image: url("./assets/cook.png"); */
 }
 
 #recettesGlobal {

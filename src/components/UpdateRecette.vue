@@ -47,9 +47,6 @@ export default {
 
 <style>
 #global {
-  /* text-align: center; */
-  /* margin-left: 42%; */
-  background-image: url("./assets/cook.png");
 }
 
 #addRecette {
